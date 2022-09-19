@@ -1,0 +1,46 @@
+a:link {
+ color: #00ff00;
+ text-decoration: none;
+}
+
+a:hover {
+ color: #ff0000;
+ text-decoration: underline;
+}
+
+h1 {
+ color: #ffffff;
+}
+
+.firstdiv {
+  background-color: #6495ED
+}
+
+#lightgreen {
+  background-color: #00FF7F
+}
+
+h4 {
+  background-color: #006400;
+  color: #FFFF00
+}
+
+.yellowback {
+  background-color: #FFFF00
+}
+
+h5 {
+  color: #FF0000
+}
+
+#red {
+  color: #FF0000
+}
+
+h2 {
+  color: #0000FF
+}
+
+#orange {
+  color: orange
+}
