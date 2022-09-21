@@ -1,0 +1,73 @@
+h2 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+  background-image: url("images/background.png");
+}
+
+h1 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+  background-image: url("images/background.png");
+}
+
+h3 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+  background-image: url("images/background.png");
+}
+
+h4 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+  background-image: url("images/background.png");
+}
+
+h5{
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+  background-image: url("images/background.png");
+}
+
+#backblack {
+  color: #FFFFFF;
+  background-color: #000000
+}
+
+.turngray {
+  color: #808080
+}
+
+a:link {
+ color: #FF0000
+}
+
+a:hover {
+ color: yellow
+}
+
+a:visited {
+ color: #00FF00
+}
+
+body {
+  font-family: sans-serif, Helvetica, Arial;
+}
+
+.center {
+  text-align: center;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.boxmodel {
+border: 5px solid #000000;
+padding: 10px 10px 10px 10px;
+margin: 10px 10px 10px 10px;
+}
