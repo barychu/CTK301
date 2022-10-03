@@ -1,0 +1,68 @@
+header {
+  grid-column: span 6;
+  background-color: lightblue;
+  padding-left: 24px;
+}
+
+body {
+  background-color: #999999
+}
+
+nav {
+  grid-column: span 1;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+}
+
+nav li a {
+  display: block;
+  background-color: red;
+  border: 1px solid black;
+  padding: 1em;
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  grid-column: span 4;
+  margin-right: 10px;
+}
+
+.floating {
+  float: left;
+  margin-right: 20px;
+}
+
+aside {
+  grid-column: span 1;
+  background-color: lightgreen;
+  padding: 0px 10px;
+  margin: 10px
+}
+
+footer {
+  background-color: red;
+  grid-column: span 6;
+}
+
+#wrapper {
+  margin: 1em auto;
+  padding: 0px;
+  width: 960px;
+  border: 1px solid #ff0000;
+  background-color: #ffffff;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+}
+
+main h2 {
+  margin-top: 0px;
+  padding-top: 0px;
+}
